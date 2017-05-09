@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Laba_3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Laba_3_jar</output-path>
+    <root id="archive" name="Laba_3.jar">
+      <element id="module-output" name="Laba_3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libs/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
